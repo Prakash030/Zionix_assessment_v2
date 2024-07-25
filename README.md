@@ -25,13 +25,13 @@ This project consists of a frontend and backend application. Below are the instr
    cd Zionix_assessment_v2
 # Install frontend dependencies
  ```bash
-cd frontend
+cd Zionix-frontend
 npm install
 ```
 
 # Install backend dependencies
  ```bash
-cd ../backend
+cd ../Zionix-backend
 npm install
 
 
