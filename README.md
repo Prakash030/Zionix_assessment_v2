@@ -35,9 +35,9 @@ cd ../Zionix-backend
 npm install
 
 
-cd backend
+cd Zionix-backend
 npm run dev
 
 
-cd ../frontend
+cd ../Zionix-frontend
 npm start
