@@ -24,10 +24,13 @@ This project consists of a frontend and backend application. Below are the instr
    git clone https://github.com/Prakash030/Zionix_assessment_v2.git
    cd Zionix_assessment_v2
 # Install frontend dependencies
+ ```bash
 cd frontend
 npm install
+```
 
 # Install backend dependencies
+ ```bash
 cd ../backend
 npm install
 
