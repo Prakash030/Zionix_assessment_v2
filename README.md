@@ -21,7 +21,7 @@ This project consists of a frontend and backend application. Below are the instr
 1. **Clone the Repository**
 
    ```bash
-   git clone [<repository-url>](https://github.com/Prakash030/Zionix_assessment_v2.git)
+   git clone https://github.com/Prakash030/Zionix_assessment_v2.git
    cd Zionix_assessment_v2
 # Install frontend dependencies
 cd frontend
